@@ -1,0 +1,22 @@
+{
+  "name": "Beyyoglu Mağaza Denetim",
+  "short_name": "Beyyoglu",
+  "description": "Mağaza denetim formu ve PDF rapor oluşturma",
+  "start_url": "/beyyoglu-denetim-app/",
+  "display": "standalone",
+  "background_color": "#f9f0f2",
+  "theme_color": "#D6938A",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/beyyoglu-denetim-app/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/beyyoglu-denetim-app/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
